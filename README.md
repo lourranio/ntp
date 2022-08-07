@@ -3,7 +3,7 @@
 Testado no ubuntu 22
 
 
- No tutorial abaixo você verá como instalar e configurar o NTP para realizar a sincronização do relógio.
+Como instalar e configurar o NTP para realizar a sincronização do relógio.
 
  
 ## Etapa 1: lista de fusos horários disponíveis
