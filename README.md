@@ -1,5 +1,7 @@
 # ntp
 
+Testado no ubuntu 22
+
 
  No tutorial abaixo você verá como instalar e configurar o NTP para realizar a sincronização do relógio.
 
@@ -31,7 +33,7 @@ sudo apt-get install ntp ntpdate
 
 ```
 service ntp stop
-ntpdate a.ntp.br
+sudo ntpdate a.ntp.br
 service ntp start
 ```
  
